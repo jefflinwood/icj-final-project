@@ -1,0 +1,19 @@
+{
+    "cities": [
+        {
+            "name": "Austin",
+            "slug": "austin",
+            "slogan": "Keep Austin Weird!"
+        },
+        {
+            "name": "Dallas",
+            "slug": "dallas",
+            "slogan": "Big things happen here"
+        },
+        {
+            "name": "Fort Worth",
+            "slug": "fort-worth",
+            "slogan": "Where the West Begins"
+        }
+    ]
+}
